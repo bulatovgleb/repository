@@ -1,0 +1,64 @@
+﻿<Page x:Class="BookStoreApp.Pages.AddOrderPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:BookStoreApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="500"
+      Title="Добавление и редактирование заказа"
+      Style="{StaticResource base_page}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        
+        
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Клиент" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Книга" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Количество" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Дата создания" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="Дата доставки" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="6" Grid.Column="0" Text="Статус" Margin="20 5 20 5" Height="30"/>
+
+
+        <ComboBox x:Name="ComboBoxClient" SelectedItem="{Binding Client}"
+                  Grid.Row="1" Grid.Column="1" SelectedValuePath="ClientID" Height="auto" Margin="40,16,40,14">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding ClientSurname}"/>
+                        <Run Text="{Binding ClientName}"/>
+                        <Run Text="{Binding ClientPatronymic}"/>
+                        <Run Text="{Binding ClientAddress}"/>
+                        <Run Text="{Binding ClientPhoneNumber}"/>
+                    </TextBlock>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <ComboBox x:Name="ComboBoxBook" SelectedItem="{Binding Book}"
+                  Grid.Row="2" Grid.Column="1" DisplayMemberPath="BookName" SelectedValuePath="BookID" Height="auto" Margin="40,16,40,14"/>
+        <TextBox x:Name="TextBoxOrderCount" Text="{Binding OrderCount}" Grid.Row="3" Grid.Column="1" Height="30" Margin="40,16,40,14"/>
+        <DatePicker x:Name="TextBoxOrderCreateDate" SelectedDate="{Binding OrderCreateDate}" Grid.Row="4" Grid.Column="1" Height="30" Margin="40,16,40,14"/>
+        <DatePicker x:Name="TextBoxOrderDeliveryDate" SelectedDate="{Binding OrderDeliveryDate}" Grid.Row="5" Grid.Column="1" Height="30" Margin="40,16,40,14"/>
+        <ComboBox x:Name="ComboBoxOrderStatus" SelectedItem="{Binding OrderStatu}"
+                  Grid.Row="6" Grid.Column="1" DisplayMemberPath="OrderStatusName" SelectedValuePath="OrderStatusID" Height="auto" Margin="40,16,40,14"/>
+
+        <Button x:Name="BtnSave" Grid.Row="11" Content="Сохранить"  
+                HorizontalAlignment="Center" VerticalAlignment="Center" Width="140" 
+                Click="BtnSave_Click" Grid.ColumnSpan="2" Height="36" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+    </Grid>
+</Page>

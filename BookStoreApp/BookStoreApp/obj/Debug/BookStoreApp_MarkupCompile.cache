@@ -1,0 +1,20 @@
+﻿BookStoreApp
+
+
+winexe
+C#
+.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\Диплом Булатов\BookStoreApp\BookStoreApp\obj\Debug\
+BookStoreApp
+none
+false
+DEBUG;TRACE
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\Диплом Булатов\BookStoreApp\BookStoreApp\App.xaml
+21224399501
+4-807054516
+41837168949
+25-277160586
+Pages\AddAuthorPage.xaml;Pages\AddBookPage.xaml;Pages\AddBookGenrePage.xaml;Pages\AddClientPage.xaml;Pages\AddOrderPage.xaml;Pages\AddProviderPage.xaml;Pages\AddPublishingHousePage.xaml;Pages\AuthorsPage.xaml;Pages\BookGenresPage.xaml;Pages\BooksPage.xaml;Pages\CatalogPage.xaml;Pages\ClientsPage.xaml;Pages\OrdersPage.xaml;Pages\ProvidersPage.xaml;Pages\PublishingHousesPage.xaml;Resources\Dictionary.xaml;Windows\LoginWindow.xaml;Windows\MainWindow.xaml;Windows\NewOrderWindow.xaml;Windows\OrderTicketWindow.xaml;Windows\RegisterWindow.xaml;
+
+True
+

@@ -1,0 +1,98 @@
+﻿<Window x:Class="BookStoreApp.Windows.OrderTicketWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookStoreApp.Windows"
+        mc:Ignorable="d"
+        Title="Талон" Style="{StaticResource base_window}" 
+        Height="500" Width="1000" MinHeight="500" MinWidth="1000" 
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="34"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid Background="{StaticResource additional}" Grid.ColumnSpan="2"/>
+
+
+
+        <TextBlock Grid.Row="0" Text="Мелкооптовый книжный магазин" Grid.ColumnSpan="2"
+                   HorizontalAlignment="Center" VerticalAlignment="Center" Background="{StaticResource additional}"
+                   FontSize="20" Foreground="black"/>
+
+        <TextBlock Text="Заказ"  Grid.Row="1" Grid.Column="0"
+                   Grid.ColumnSpan="2"  x:Name="TextBlockOrderNumber"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="20"/>
+
+        <TextBlock Text="Дата заказа"  Grid.Row="2" Grid.Column="0" 
+                   HorizontalAlignment="Left" Margin="10,4,0,4" 
+                   VerticalAlignment="Center"
+                   Style="{StaticResource item_textblock}"
+                   Width="180" />
+        <TextBlock x:Name="TextBlockOrderCreateDate"
+                   Grid.Row="2" Grid.Column="1"  
+                   VerticalAlignment="Center" 
+                   HorizontalAlignment="Left" 
+                   Style="{StaticResource item_textblock}"/>
+        <TextBlock Text="Дата получения"  Grid.Row="3" Grid.Column="0" 
+                   HorizontalAlignment="Left" Margin="10,4,0,4" 
+                   VerticalAlignment="Center"
+                   Style="{StaticResource item_textblock}"
+                   Width="180" />
+        <TextBlock x:Name="TextBlockOrderDeliveryDate" Grid.Row="3" 
+                   Grid.Column="1"  VerticalAlignment="Center" 
+                   HorizontalAlignment="Left" Style="{StaticResource item_textblock}"/>
+
+        <DataGrid x:Name="DataGridOrderItems" Grid.Row="4"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  RowHeight="50" Grid.ColumnSpan="2"
+                  SelectionMode="Single"
+                  LoadingRow="DataGridGoodLoadingRow">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Width="200" 
+                                        HeaderStyle="{StaticResource WrappedColumnHeaderStyle}" Header="Изображение">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Path=Key.GetPhoto}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Binding="{Binding Key.BookName}" HeaderStyle="{StaticResource WrappedColumnHeaderStyle}"
+                                    Header="Наименование товара" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Value.Count}" HeaderStyle="{StaticResource WrappedColumnHeaderStyle}"
+                                    Header="Количество" Width="*"/>
+
+                <DataGridTextColumn Binding="{Binding Key.BookPrice, StringFormat='c', ConverterCulture='ru-RU'}" HeaderStyle="{StaticResource WrappedColumnHeaderStyle}" 
+                                    Header="Стоимость" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Value.Total, StringFormat='c', ConverterCulture='ru-RU'}" HeaderStyle="{StaticResource WrappedColumnHeaderStyle}" 
+                                    Header="Итого" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <TextBlock x:Name="TextBlockTotalCost" Grid.Row="5" Grid.ColumnSpan="2"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="6"
+                    HorizontalAlignment="Center" Margin="0,0,10,0" Grid.RowSpan="2" Width="982" Grid.ColumnSpan="2">
+            <Button Width="100" Height="35" Margin="20"
+                    Content="OK" 
+                    x:Name="BtnOk" 
+                    Click="BtnOk_Click" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+            <Button x:Name="BtnSavePDF" Margin="10,22"
+                    Content="Сохранить в PDF" Width="180" Height="35" 
+                    Click="BtnSavePDF_Click" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+        </StackPanel>
+    </Grid>
+</Window>

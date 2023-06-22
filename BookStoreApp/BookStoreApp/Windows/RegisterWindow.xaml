@@ -1,0 +1,109 @@
+﻿<Window x:Class="BookStoreApp.Windows.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookStoreApp.Windows"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Регистрация"  Style="{StaticResource base_window}" Height="530"
+        Width="510" MinHeight="530" MinWidth="510" 
+        WindowStartupLocation="CenterScreen"
+        Closing="Window_Closing" 
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+
+        <Grid Background="{StaticResource additional}" />
+
+        <TextBlock Grid.Row="0" Text="Мелкооптовый книжный магазин" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center"
+                   Background="{StaticResource additional}"
+                   FontSize="20"
+                   Foreground="Black"/>
+
+        <TextBox x:Name="TbLogin"
+                 Grid.Row="1"
+                 Width="450"
+                 VerticalAlignment="Center"  
+                 HorizontalAlignment="Center" 
+                 HorizontalContentAlignment="Left"  
+                 materialDesign:HintAssist.Hint="Логин" 
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                 materialDesign:TextFieldAssist.HasClearButton="True"
+                 Margin="0,2,0,3" 
+                 Padding="0,0,0,5" />
+
+        <PasswordBox x:Name="TbPass" 
+                      Grid.Row="2"
+                      Width="450" 
+                      materialDesign:HintAssist.Hint="Пароль" 
+                      Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" 
+                      materialDesign:TextFieldAssist.HasClearButton="True"/>
+
+        <TextBox x:Name="TextBoxClientSurname" 
+                 Grid.Row="3"
+                 Width="450"
+                 materialDesign:HintAssist.Hint="Фамилия" 
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                 materialDesign:TextFieldAssist.HasClearButton="True"/>
+
+        <TextBox x:Name="TextBoxClientName" 
+                 Grid.Row="4"
+                 Width="450"
+                 materialDesign:HintAssist.Hint="Имя" 
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                 materialDesign:TextFieldAssist.HasClearButton="True"/>
+
+        <TextBox x:Name="TextBoxClientPatronymic" 
+                 Grid.Row="5"
+                 Width="450"
+                 materialDesign:HintAssist.Hint="Отчество" 
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                 materialDesign:TextFieldAssist.HasClearButton="True"/>
+
+        <TextBox x:Name="TextBoxClientAddress" 
+                 Grid.Row="6"
+                 Width="450"
+                 materialDesign:HintAssist.Hint="Адрес" 
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                 materialDesign:TextFieldAssist.HasClearButton="True"/>
+
+        <TextBox x:Name="TextBoxClientPhoneNumber" 
+                 Grid.Row="7"
+                 Width="450"
+                 materialDesign:HintAssist.Hint="Номер телефона" 
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+                 materialDesign:TextFieldAssist.HasClearButton="True"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="8" HorizontalAlignment="Center" Margin="10,5,10,-12" Width="474">
+            <Button Width="150" Height="Auto" 
+                    Content="OK" 
+                    x:Name="BtnRegister" 
+                    FontSize="18"
+                    Click="BtnRegister_Click" Margin="50,10,20,10"
+                    Style="{StaticResource MaterialDesignRaisedButton}" />
+            <Button Width="150"
+                    Height="Auto" 
+                    Content="Отмена" 
+                    x:Name="BtnCancel" 
+                    FontSize="18"
+                    Click="BtnCancel_Click" Margin="50,10,0,10"
+                    Style="{StaticResource MaterialDesignRaisedButton}" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,506 @@
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStore.mdf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStore_log.ldf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.AssemblyReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_Content.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.lref
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.g.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CopyComplete
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\App.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.ResolveComReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddRolePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\RolesPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddRolePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\RolesPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStore.mdf
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStore_log.ldf
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.dll
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.xml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.resources.dll
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.AssemblyReference.cache
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.ResolveComReference.cache
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddRolePage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\RolesPage.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\App.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_Content.g.cs
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.cache
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.lref
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\App.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddRolePage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Pages\RolesPage.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.baml
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.g.resources
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CopyComplete
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+D:\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStore.mdf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStore_log.ldf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.ResolveComReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Resources\Dictionary.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddRolePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\RolesPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_Content.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.lref
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\App.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddRolePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\RolesPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.g.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CopyComplete
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.AssemblyReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.ResolveComReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Resources\Dictionary.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_Content.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.lref
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\BookStore.mdf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\BookStore_log.ldf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\App.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.g.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CopyComplete
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 2\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.AssemblyReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStore.mdf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStore_log.ldf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.AssemblyReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.ResolveComReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Resources\Dictionary.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_Content.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.lref
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\App.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookSectionPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookSectionsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.g.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CopyComplete
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\BookStore.mdf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\BookStore_log.ldf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.ResolveComReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Resources\Dictionary.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_Content.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.lref
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\App.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.g.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CopyComplete
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookGenrePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookGenrePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookGenresPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом работа\диплом — копия\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookGenresPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\BookStore.mdf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\BookStore_log.ldf
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe.config
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.AssemblyReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.ResolveComReference.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Resources\Dictionary.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookGenrePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookGenresPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\App.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_Content.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp_MarkupCompile.lref
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\App.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddAuthorPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddBookGenrePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddClientPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddOrderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddProviderPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AddPublishingHousePage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\AuthorsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\BookGenresPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\BooksPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\CatalogPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\OrdersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\ProvidersPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Pages\PublishingHousesPage.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\LoginWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\MainWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\NewOrderWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\OrderTicketWindow.baml
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.g.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Properties.Resources.resources
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.CopyComplete
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.exe
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\RegisterWindow.g.cs
+C:\Users\Hyperpop\Desktop\Мелкооптовый книжный магазин\диплом 3 версия\BookStoreApp\BookStoreApp\obj\Debug\Windows\RegisterWindow.baml

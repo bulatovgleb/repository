@@ -1,0 +1,52 @@
+﻿<Page x:Class="BookStoreApp.Pages.AddClientPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BookStoreApp.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="500"
+      Title="Добавление и редактирование клиента"
+      Style="{StaticResource base_page}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Логин" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Пароль" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Фамилия" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Имя" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="Отчество" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="6" Grid.Column="0" Text="Адрес" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="7" Grid.Column="0" Text="Номер телефона" Margin="20 5 20 5" Height="30"/>
+        <TextBlock Grid.Row="8" Grid.Column="0" Text="Роль" Margin="20 5 20 5" Height="30"/>
+
+        <TextBox x:Name="TextBoxClientLogin" Text="{Binding ClientLogin}" Grid.Row="1" Grid.Column="1" Height="30" Margin="40,5,40,4"/>
+        <TextBox x:Name="TextBoxClientPassword" Text="{Binding ClientPassword}" Grid.Row="2" Grid.Column="1" Height="30" Margin="40,5,40,4"/>
+        <TextBox x:Name="TextBoxClientSurname" Text="{Binding ClientSurname}" Grid.Row="3" Grid.Column="1" Height="30" Margin="40,5,40,4"/>
+        <TextBox x:Name="TextBoxClientName" Text="{Binding ClientName}" Grid.Row="4" Grid.Column="1" Height="30" Margin="40,5,40,4"/>
+        <TextBox x:Name="TextBoxClientPatronymic" Text="{Binding ClientPatronymic}" Grid.Row="5" Grid.Column="1" Height="30" Margin="40,5,40,4"/>
+        <TextBox x:Name="TextBoxClientAddress" Text="{Binding ClientAddress}" Grid.Row="6" Grid.Column="1" Height="30" Margin="40,5,40,4"/>
+        <TextBox x:Name="TextBoxClientPhoneNumber" Text="{Binding ClientPhoneNumber}" Grid.Row="7" Grid.Column="1" Height="30" Margin="40,5,40,4"/>
+        <ComboBox x:Name="ComboBoxRole" SelectedItem="{Binding Role}"
+                  Grid.Row="8" Grid.Column="1" DisplayMemberPath="RoleName" SelectedValuePath="RoleID" Height="auto" Margin="40,5,40,4"/>
+
+        <Button x:Name="BtnSave" Grid.Row="11" Content="Сохранить"  
+                HorizontalAlignment="Center" VerticalAlignment="Center" Width="140" 
+                Click="BtnSave_Click" Grid.ColumnSpan="2" Height="36" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+    </Grid>
+</Page>

@@ -1,0 +1,46 @@
+﻿<Window x:Class="BookStoreApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookStoreApp"
+        mc:Ignorable="d"
+        Title="{Binding ElementName=MainFrame, Path=Content.Title}" 
+        WindowStartupLocation="CenterScreen"
+        Style="{StaticResource base_window}"
+        Height="900" Width="1400"
+        Closing="Window_Closing"
+        Closed="Window_Closed">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="85"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid Background="{StaticResource additional}"/>
+        <Grid Grid.Row="1" Background="{StaticResource additional}"/>
+        <TextBlock Grid.Row="0" Text="Мелкооптовый книжный магазин" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center"
+                   Background="{StaticResource additional}"
+                   FontSize="20"
+                   Foreground="Black"/>
+        <Frame x:Name="MainFrame" Grid.Row="2" BorderBrush="{StaticResource akcent}"
+               NavigationUIVisibility="Hidden"
+               BorderThickness="0" 
+               ContentRendered="MainFrame_ContentRendered"/>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,15,5" Height="49">
+            <Button x:Name="BtnEditAuthors" Content="Авторы" Click="BtnEditAuthors_Click" Height="Auto" Margin="3,10,3,4" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+            <Button x:Name="BtnEditBookGenres" Content="Жанры" Click="BtnEditBookGenres_Click" Height="Auto" Margin="3,10,3,4" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+            <Button x:Name="BtnEditProviders" Content="Поставщики" Click="BtnEditProviders_Click" Height="Auto" Margin="3,10,3,4" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+            <Button x:Name="BtnEditPublishingHouses" Content="Издательства" Click="BtnEditPublishingHouses_Click" Height="Auto" Margin="3,10,3,4" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+            <Button x:Name="BtnEditOrders" Content="Заказы" Click="BtnEditOrders_Click" Height="Auto" Margin="3,10,3,4" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+            <Button x:Name="BtnEditClients" Content="Клиенты" Click="BtnEditClients_Click" Height="Auto" Margin="3,10,3,4" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+            <Button x:Name="BtnEditBooks" Content="Книги" Click="BtnEditBooks_Click" Height="Auto" Margin="3,10,3,4" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+            <Button x:Name="BtnBack" Content="Назад" Click="BtnBack_Click" Height="Auto" Margin="3,10,3,4" Style="{StaticResource MaterialDesignRaisedButton}" FontSize="18"/>
+        </StackPanel>
+        <TextBlock Grid.Row="1" x:Name="TextBlockName" Width="auto" Height="auto" Margin="0,0,20,0" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Grid Grid.Row="3" Background="{StaticResource additional}"/>
+    </Grid>
+</Window>
